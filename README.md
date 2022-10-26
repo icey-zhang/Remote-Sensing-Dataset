@@ -1,6 +1,9 @@
 # 遥感数据集汇总与下载
 遥感数据集汇总与下载
+
 https://github.com/chrieke/awesome-satellite-imagery-datasets
+https://github.com/robmarkcole/satellite-image-deep-learning
+
 正在下载各类数据集，汇总之后传到百度云
 
 等时间空一点再整理
