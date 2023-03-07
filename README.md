@@ -7,7 +7,6 @@ https://github.com/robmarkcole/satellite-image-deep-learning
 
 正在下载各类数据集，汇总之后传到百度云
 
-等时间空一点再整理
 
 ## 目标检测
 
