@@ -22,4 +22,8 @@ https://github.com/robmarkcole/satellite-image-deep-learning
 
 提取码：6666
 
+**3.HRSID**
 
+链接：https://pan.baidu.com/s/1MFmwPD9qde0i5RvxoxAieA?pwd=6666 
+
+提取码：6666
