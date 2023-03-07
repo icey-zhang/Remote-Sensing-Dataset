@@ -33,3 +33,7 @@ https://github.com/robmarkcole/satellite-image-deep-learning
 链接：https://pan.baidu.com/s/1kdlOzv6n1j28Tp2jW_aE-g?pwd=6666 
 
 提取码：6666
+
+## 高光谱地物分类
+
+## 
