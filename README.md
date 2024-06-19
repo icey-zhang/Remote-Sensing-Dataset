@@ -15,11 +15,7 @@ https://github.com/robmarkcole/satellite-image-deep-learning
 **1.HRSC2016**
 | 名称  | 图像尺寸      | 分辨率 | 模态 | 数量   | 标签类别 | 文件格式 |
 | -----|  ----------- | --- | ---- | ----- | ------  | ------ |
-| HRSC2016|  大多数图像大于1000x600 | 0.4m和2m | RGB | - | 4个大类19个小类 | -|
-
-链接：https://pan.baidu.com/s/1jarjxn6us6NWo3fylPj50g?pwd=6666 
-
-提取码：6666
+| [HRSC2016](https://pan.baidu.com/s/1jarjxn6us6NWo3fylPj50g?pwd=6666 ) |  大多数图像大于1000x600 | 0.4m和2m | RGB | - | 4个大类19个小类 | -|
 
 **2.DIOR**
 
@@ -45,6 +41,11 @@ https://github.com/robmarkcole/satellite-image-deep-learning
 | 名称  | 图像尺寸      | 分辨率 | 模态 | 数量   | 标签类别 | 文件格式 |
 | -----|  ----------- | --- | ---- | ----- | ------  | ------ |
 |  [SARDet_100K](https://github.com/zcablii/SARDet_100K)|  - | - | SAR | - | - | -|
+
+### 多光谱
+| 名称  | 图像尺寸      | 分辨率 | 模态 | 数量   | 标签类别 | 文件格式 |
+| -----|  ----------- | --- | ---- | ----- | ------  | ------ |
+|  [DroneVehicle](https://github.com/VisDrone/DroneVehicle)|  - | - | RGB&IR | - | - | -|
 
 
 ## 高光谱地物分类
