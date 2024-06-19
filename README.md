@@ -10,7 +10,12 @@ https://github.com/robmarkcole/satellite-image-deep-learning
 
 ## 目标检测
 
+### 可见光
+
 **1.HRSC2016**
+| 名称  | 图像尺寸      | 分辨率 | 模态 | 数量   | 标签类别 | 文件格式 |
+| -----|  ----------- | --- | ---- | ----- | ------  | ------ |
+| HRSC2016|  大多数图像大于1000x600 | 0.4m和2m | RGB | - | 4个大类19个小类 | -|
 
 链接：https://pan.baidu.com/s/1jarjxn6us6NWo3fylPj50g?pwd=6666 
 
@@ -33,6 +38,14 @@ https://github.com/robmarkcole/satellite-image-deep-learning
 链接：https://pan.baidu.com/s/1kdlOzv6n1j28Tp2jW_aE-g?pwd=6666 
 
 提取码：6666
+
+### SAR
+
+**1.SARDet_100K**
+| 名称  | 图像尺寸      | 分辨率 | 模态 | 数量   | 标签类别 | 文件格式 |
+| -----|  ----------- | --- | ---- | ----- | ------  | ------ |
+|  [SARDet_100K](https://github.com/zcablii/SARDet_100K)|  - | - | SAR | - | - | -|
+
 
 ## 高光谱地物分类
 
